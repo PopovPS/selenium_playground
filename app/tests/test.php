@@ -9,7 +9,7 @@ use Facebook\WebDriver\Remote\RemoteWebDriver;
 use Facebook\WebDriver\WebDriverBy;
 
 
-final class GreeterTest extends TestCase
+final class WebDriverTest extends TestCase
 {
     private static RemoteWebDriver $driver;
 
